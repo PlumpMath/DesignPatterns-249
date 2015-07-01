@@ -1,0 +1,6 @@
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CommandPattern\bin\Debug\CommandPattern.exe.config
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CommandPattern\bin\Debug\CommandPattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CommandPattern\bin\Debug\CommandPattern.pdb
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CommandPattern\obj\Debug\CommandPattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CommandPattern\obj\Debug\CommandPattern.pdb

@@ -1,0 +1,6 @@
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\bin\Debug\CompositePattern.exe.config
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\bin\Debug\CompositePattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\bin\Debug\CompositePattern.pdb
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\obj\Debug\CompositePattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\obj\Debug\CompositePattern.pdb

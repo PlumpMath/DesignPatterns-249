@@ -1,0 +1,6 @@
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\TemplatePattern\bin\Debug\TemplatePattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\TemplatePattern\bin\Debug\TemplatePattern.pdb
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\TemplatePattern\obj\Debug\TemplatePattern.csprojResolveAssemblyReference.cache
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\TemplatePattern\obj\Debug\TemplatePattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\TemplatePattern\obj\Debug\TemplatePattern.pdb

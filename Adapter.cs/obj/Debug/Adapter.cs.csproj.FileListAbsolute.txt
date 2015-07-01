@@ -1,0 +1,5 @@
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\Adapter.cs\bin\Debug\Adapter.cs.exe.config
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\Adapter.cs\bin\Debug\Adapter.cs.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\Adapter.cs\bin\Debug\Adapter.cs.pdb
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\Adapter.cs\obj\Debug\Adapter.cs.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\Adapter.cs\obj\Debug\Adapter.cs.pdb

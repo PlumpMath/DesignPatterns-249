@@ -1,0 +1,5 @@
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\observer\bin\Debug\observer.exe.config
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\observer\bin\Debug\observer.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\observer\bin\Debug\observer.pdb
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\observer\obj\Debug\observer.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\observer\obj\Debug\observer.pdb

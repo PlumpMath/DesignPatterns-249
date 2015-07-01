@@ -1,0 +1,6 @@
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.exe.config
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\MementoPattern\bin\Debug\MementoPattern.pdb
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.exe
+c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\MementoPattern\obj\Debug\MementoPattern.pdb
