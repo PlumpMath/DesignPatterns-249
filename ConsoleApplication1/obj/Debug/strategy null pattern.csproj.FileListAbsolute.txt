@@ -1,3 +1,6 @@
 c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\sowu\Documents\Visual Studio 2013\Projects\DesignPatterns\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sowu\Documents\Visual Studio 2013\Projects\DesignPatterns\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\sowu\Documents\Visual Studio 2013\Projects\DesignPatterns\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

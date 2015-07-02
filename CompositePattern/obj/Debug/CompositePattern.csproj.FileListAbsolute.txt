@@ -4,3 +4,6 @@ c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\Composit
 c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\bin\Debug\CompositePattern.pdb
 c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\obj\Debug\CompositePattern.exe
 c:\users\sowu\documents\visual studio 2013\Projects\ConsoleApplication1\CompositePattern\obj\Debug\CompositePattern.pdb
+C:\Users\sowu\Documents\Visual Studio 2013\Projects\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\sowu\Documents\Visual Studio 2013\Projects\DesignPatterns\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\sowu\Documents\Visual Studio 2013\Projects\DesignPatterns\CompositePattern\obj\Debug\CompositePattern.pdb
